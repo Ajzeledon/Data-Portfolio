@@ -28,7 +28,7 @@ This portfolio includes real-world projects, dashboards, SQL queries, and case s
 - Trend analysis  
 - Customer segmentation  
 
-➡️ *Coming soon*
+
 
 ---
 
@@ -40,7 +40,7 @@ This portfolio includes real-world projects, dashboards, SQL queries, and case s
 - Staff performance  
 - Daily & hourly trends  
 
-➡️ *Coming soon*
+
 
 ---
 
@@ -52,7 +52,7 @@ This portfolio includes real-world projects, dashboards, SQL queries, and case s
 - Portfolio projection vs. savings account  
 - Real insights from personal investment experience  
 
-➡️ *Coming soon*
+
 
 ---
 
